@@ -1,1 +1,1 @@
-# Mini-twit
+# Mini-twit- Micro Blogging Application
